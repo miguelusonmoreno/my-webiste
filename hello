@@ -1,0 +1,52 @@
+```html
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MIGUEL USON - Fractional CFO & Financial Consultant</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+            color: #333;
+            text-align: center;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: #fff;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #0056b3;
+            margin-bottom: 20px;
+        }
+        p {
+            font-size: 1.1em;
+            margin-bottom: 10px;
+        }
+        a {
+            color: #007bff;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>MIGUEL USON - FRACTIONAL CFO & FINANCIAL CONSULTANT</h1>
+        <p><strong>Info de Contacto:</strong></p>
+        <p>Email: <a href="mailto:hello.migueluson@gmail.com">hello.migueluson@gmail.com</a></p>
+        <p>Teléfono: <a href="tel:+34691446670">+34 691446670</a></p>
+    </div>
+</body>
+</html>
+```
